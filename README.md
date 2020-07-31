@@ -1,6 +1,6 @@
 # Rasa covid chatbot
 
-A basic chatbot for answering covid-19 related questions built using the Rasa framework with the Rasa X framework
+A basic chatbot for answering covid-19 related questions built using the Rasa framework with the Rasa X Wrapper
 
 Able to integrate with a variety of platforms, a comprehensive guide for which can be found at: https://rasa.com/docs/rasa/user-guide/messaging-and-voice-channels/
 
